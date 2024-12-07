@@ -1,1 +1,2 @@
-This is the readme for my website portfolio
+This is my portfolio website.
+Sit back while I update the portforlio
