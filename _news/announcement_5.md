@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our publication, "DynaRapid: Fast-tracking from C to routed circuits", got accepted at the 34th IEEE International Conference on Field-Programmable Logic and Applications held in Torino, Italy
+Our publication, "DynaRapid: Fast-tracking from C to routed circuits", got accepted at the 34th IEEE International Conference on Field-Programmable Logic and Applications held in Torino, Italy.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our publication, "Precision Unwound: Fine-Tuning Loop Unrolling for Energy-efficient FPGA-based PQC using HLS", got accepted at the 26th International Symposium on Quality Electronic Design held in San Francisco, California, USA
+Our publication, "Iterative Frequency Tuning Targeting Energy Efficiency Ratio for FPGA-based Post-Quantum Cryptographic Cores", got accepted at the 31st IEEE International Conference on Electronics, Circuits and Systems held in Nancy, France.

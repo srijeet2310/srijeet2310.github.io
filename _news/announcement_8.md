@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started working as a software engineer at the IOSXE polaris team at Cisco Systems Private Limited in Bangalore, Karnataka, India
+Started working as a software engineer at the IOSXE polaris team at Cisco Systems Private Limited in Bangalore, Karnataka, India.

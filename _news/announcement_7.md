@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started working as a systems software engineer at the devtools perfworks team at NVIDIA Graphics Private Limited in Pune, Maharashtra, India
+Started working as a systems software engineer at the devtools perfworks team at NVIDIA Graphics Private Limited in Pune, Maharashtra, India.
