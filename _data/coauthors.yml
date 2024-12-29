@@ -10,10 +10,10 @@
   - firstname: ["Lana Josipovic", "L.", "Lana", "J.", "Josipovic"]
     url: https://sites.google.com/view/lanajosipovic
 
-"eddie"
+"eddie":
   - firstname: ["Eddie Hung", "E.", "Hung", "H.", "Eddie"]
     url: https://people.ece.ubc.ca/eddieh/
 
-"chris"
+"chris":
   - firstname: ["Chris", "C.", "Lavin", "L.", "Chris"]
     url: https://www.linkedin.com/in/lavinchris/
