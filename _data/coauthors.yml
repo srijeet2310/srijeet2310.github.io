@@ -1,19 +1,19 @@
 "andrea":
-  - firstname: ["Andrea", "Andrea Guerrieri", "A.", "G.", "Guerrieri"]
+  - firstname: ["Andrea", "Andrea Guerrieri", "A."]
     url: https://people.hes-so.ch/en/profile/7560748869-andrea-guerrieri
 
 "paolo":
-  - firstname: ["Paolo Ienne", "P.", "Paolo", "I.", "Ienne"]
+  - firstname: ["Paolo Ienne", "P.", "Paolo"]
     url: https://people.epfl.ch/paolo.ienne
 
 "lana":
-  - firstname: ["Lana Josipovic", "L.", "Lana", "J.", "Josipovic"]
+  - firstname: ["Lana Josipovic", "L.", "Lana"]
     url: https://sites.google.com/view/lanajosipovic
 
 "eddie":
-  - firstname: ["Eddie Hung", "E.", "Hung", "H.", "Eddie"]
+  - firstname: ["Eddie Hung", "E.", "Eddie"]
     url: https://people.ece.ubc.ca/eddieh/
 
 "chris":
-  - firstname: ["Chris", "C.", "Lavin", "L.", "Chris"]
+  - firstname: ["Chris", "C.", "Chris"]
     url: https://www.linkedin.com/in/lavinchris/
