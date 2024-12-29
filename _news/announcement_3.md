@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-07-29 23:59:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our publication, "Precision Unwound: Fine-Tuning Loop Unrolling for Energy-efficient FPGA-based PQC using HLS", got accepted at the 26th International Symposium on Quality Electronic Design held in San Francisco, California, USA
