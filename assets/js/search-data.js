@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "Publications",
+          title: "publications",
           description: "Making high-performance computation cheap, efficient, sustainable and accessible.",
           section: "Navigation",
           handler: () => {
@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-curriculum-vitae",
-          title: "Curriculum Vitae",
+        },{id: "nav-cv",
+          title: "cv",
           description: "Making high-performance computation cheap, efficient, sustainable and accessible.",
           section: "Navigation",
           handler: () => {
