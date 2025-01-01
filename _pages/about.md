@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Making high-performance computation cheap, efficient, sustainable and accessible.
 
