@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: Making high-performance computation cheap, efficient, sustainable and accessible.
 nav: true
 nav_order: 2
