@@ -13,15 +13,22 @@
       "city": "Pune",
       "countryCode": "IN",
       "region": "Maharashtra"
-    }
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "srijeet-guha",
+        "url": "https://www.linkedin.com/in/srijeet-guha/"
+      }
+    ]
   },
   "education": [
     {
       "institution": "Birla Institute of Technology and Science - Pilani Campus",
       "location": "Pilani, India",
       "url": "https://www.bits-pilani.ac.in/pilani",
-      "studyType": "Bachelor of Engineering (Hons.)",
-      "Major": "Elecrical and Electronics Engineering",
+      "studyType": "Bachelor of Engineering",
+      "area": "Elecrical and Electronics Engineering",
       "startDate": "2019-08-01",
       "endDate": "2023-05-30",
       "score": "8.18 / 10"
