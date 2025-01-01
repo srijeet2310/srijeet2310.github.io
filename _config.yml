@@ -632,7 +632,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
+    json: https://drive.google.com/file/d/18uOBWBKTagPkMjXVZX0TETs5LoNUFgTm/view?usp=sharing # it can also be an url
 jsonresume:
   - introduction
   - education
