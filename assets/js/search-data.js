@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Making high-performance computation cheap, efficient, sustainable and accessible.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/Srijeet_Guha_Resume_PhD.pdf";
           },
         },{id: "dropdown-publications",
               title: "publications",
